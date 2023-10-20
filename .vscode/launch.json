@@ -4,11 +4,12 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
+
         {
             "type": "chrome",
             "request": "launch",
             "name": "Open hello.html",
-            "file": "/Users/steve/Documents/GitHub/Workspace/hello.html"
+            "file": "/Users/steve/Documents/GitHub/Workspace/main.html"
         }
     ]
 }
