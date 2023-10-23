@@ -11,7 +11,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Open hello.html",
-            "file": "/Users/steve/Documents/GitHub/Workspace/index.html"
+            "file": "/Users/steve/Documents/GitHub/Workspace/Website/index.html"
         }
     ]
 }
